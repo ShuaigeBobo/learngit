@@ -19,7 +19,11 @@ V1.2版本说明：
 3.用户名密码同V1.0
 4.新增录入字段SSD
 注意：公司内网访问时使用
+<<<<<<< HEAD
 Creating a new branch is quick & simple.
+=======
+Creating a new branch is quick AND simple.
+>>>>>>> feature1
 
 
 
